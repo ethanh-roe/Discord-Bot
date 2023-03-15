@@ -16,7 +16,7 @@ public class Main extends ListenerAdapter {
 	String etGif = "https://discord.com/channels/1003844653877043200/1053422186670596126/1085625805050216558";
 
 	public static void main(String[] args) {
-		String token = "MTA4NTU5NDY3MTYyOTIyNjAzNQ.GehRru.h-4fiu2-zqZEqAobYs723I6CP24e0bZSByR9tM";
+		String token = "TOKEN";
 		JDABuilder builder = JDABuilder.createDefault(token);
 
 		builder.setActivity(Activity.playing(" with gabe lowjob"));
